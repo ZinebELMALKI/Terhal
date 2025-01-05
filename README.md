@@ -57,30 +57,37 @@ An internet connection to access the deployed AI API hosted on Render (free host
 # Installation and Setup
 **Clone the Repository**
 To begin, clone this repository to your local machine and navigate to the project folder:
+```
 git clone https://github.com/salmaelbarbori/2024-InnovAI-Hackathon/tree/main/BUILDERS%20ALLIANCE
 cd 2024-InnovAI-Hackathon/BUILDERS%20ALLIANCE
-
+```
 **Navigate to the ai_api_and_deployment folder:**
+```
 cd builders/code/ai_api_and_deployment
+```
 Install the Python dependencies:
-
+```
 pip install -r requirements.txt
+```
 uvicorn main:app --reload
+```
 uvicorn main:app --reload
+```
 
 **Run the Application**
 Install Python dependencies from the main requirements.txt:
-
+```
 Install Python dependencies from the main requirements.txt:
-
+```
 Navigate to the webApp folder and install npm dependencies:
-
+```
 cd builders/code/webApp
 npm install
+```
 Run the Application : 🔮
-
+```
 node proxy-server.js
-
+```
 # Pitch 🎤
 Terhal Pitch
 
