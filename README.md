@@ -1,5 +1,5 @@
-# Terhal_UI
-UI part of darija travel chatbot
+# Terhal
+darija travel chatbot
 
 npm install express http-proxy-middleware
 npm install cors
