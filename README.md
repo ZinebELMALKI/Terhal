@@ -89,8 +89,8 @@ Run the Application : 🔮
 node proxy-server.js
 ```
 # Pitch 🎤
-[Terhal Pitch]([url](https://drive.google.com/file/d/1mI_4nI4AnRs1a8wBy7I5stD50YIfe3um/view))
+[Terhal Pitch](https://drive.google.com/file/d/1mI_4nI4AnRs1a8wBy7I5stD50YIfe3um/view)
 
 # Demo 🔮
-[Terhal Bot]([url](https://drive.google.com/file/d/1mI_4nI4AnRs1a8wBy7I5stD50YIfe3um/view))
+[Terhal Bot](https://drive.google.com/file/d/1mI_4nI4AnRs1a8wBy7I5stD50YIfe3um/view)
 
