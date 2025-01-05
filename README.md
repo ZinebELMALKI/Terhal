@@ -19,7 +19,7 @@ Simple Interface, The interaction with Terhal is through Terhal Bot, a beginner-
 
 # Instructions: 🛠️
 The repository is organised following this layout:
-
+```
 BUILDERS ALLIANCE/
 ├── code/
 │   ├── ai_api_and_deployment/
@@ -44,6 +44,7 @@ BUILDERS ALLIANCE/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 # Prerequisites ⚙️
 Before starting, ensure you have the following installed:
