@@ -58,7 +58,7 @@ An internet connection to access the deployed AI API hosted on Render (free host
 **Clone the Repository**
 To begin, clone this repository to your local machine and navigate to the project folder:
 ```
-git clone https://github.com/salmaelbarbori/2024-InnovAI-Hackathon/tree/main/BUILDERS%20ALLIANCE
+git clone https://github.com/ZinebELMALKI/Terhal.git
 cd 2024-InnovAI-Hackathon/BUILDERS%20ALLIANCE
 ```
 **Navigate to the ai_api_and_deployment folder:**
